@@ -1,5 +1,12 @@
 Why Myndig Partners?
-Are you trying to hire a technician or programmer for your organization? Do you want to get a critical feature or product out the door?
+
+Does this sound familiar? You've got a hot product or service that is starting to earn you increasing revenue. Management picks up the phone and then pulls in the Sales team through a conference link to drop the big news - Sales has made promises of key feature changes to big clients that you're suddenly contractually obligated to deliver in a tight window.
+
+This is fantastic news for the company --- if you can deliver.
+
+You return to your office with your head spinning in different directions at once. The work MUST get done, but what do you need to prioritize? Do you need a programmer, or someone familiar with the guts of your DevOps?
+
+Let's now pause and take a deep breath. *Namaste*.
 
 If you once sought a consultants opinion, did they ever ask what you were trying to do?
 
